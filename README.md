@@ -1,18 +1,22 @@
-# ivytech-demo
-Demo for Ivy Tech Community College
+# Ivytech Community College Demo
 
-1. (/ivytech-demo/patterns/04-pages-01-landing-01-landing-choose-campus/04-pages-01-landing-01-landing-choose-campus.html)[Ivy Tech landing page to select campus]
-Ivy tech campus registration page (currently being created)
-Register user (can do that on v2)
-Set job preferences (can do that on v2)
-Upload resume (can do that on v2)
-View job matches (can do that on v2)
-Browse jobs w/o resume (to be created on PL)
-Taking Assessment (http://patternlab.betterweekdays.com/?p=pages-job-seeker-assessment)
-Re-engaging dashboard for students (to be created in PL)
+## Job Seeker
 
-CS Dashboard (http://patternlab.betterweekdays.com/?p=pages-career-services-dashboard)
+1. [Ivy Tech landing page to select campus](http://ivytech.betterweekdays.com//?p=pages-landing-choose-campus)
+1. [Ivy tech campus registration page](http://ivytech.betterweekdays.com//?p=pages-landing-register)
+1. [Job Seeker dashboard](http://ivytech.betterweekdays.com/?p=pages-job-seeker-dashboard)
+1. [Set job preferences, upload resume](http://ivytech.betterweekdays.com//?p=pages-job-seeker-profile)
+1. [View job matches](http://ivytech.betterweekdays.com/?p=pages-job-seeker-matches)
+1. [Browse jobs](http://ivytech.betterweekdays.com/?p=pages-job-seeker-browse-jobs)
+1. [Start Assessment](http://ivytech.betterweekdays.com/?p=pages-job-seeker-assessment-start)
+1. [Take Assessment](http://ivytech.betterweekdays.com/?p=pages-job-seeker-assessment)
+1. [View Assessment](http://ivytech.betterweekdays.com/?p=pages-job-seeker-assessment-view)
+1. Re-engaging dashboard for students
+1. Weekly Job Seeker email sample
 
-CS Compliance Overview (http://patternlab.betterweekdays.com/?p=pages-career-services-compliance)
+## Career Services (CS)
 
-CS Browse Students (http://patternlab.betterweekdays.com/?p=pages-career-services-browse)
+1. [CS Dashboard](http://ivytech.betterweekdays.com/?p=pages-career-services-dashboard)
+1. [CS Compliance Overview](http://patternlab.betterweekdays.com/?p=pages-career-services-compliance)
+1. [CS Browse Students](http://patternlab.betterweekdays.com/?p=pages-career-services-browse)
+1. CS Daily email sample
