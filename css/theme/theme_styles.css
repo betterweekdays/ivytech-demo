@@ -9415,14 +9415,14 @@ svg {
 
 /* line 25, ../../scss/theme/imports/bwv2.scss */
 #header-navbar .nav > li .caret {
-  border-top-color: #383838;
-  border-bottom-color: #383838;
+  border-top-color: #2b2b2b;
+  border-bottom-color: #2b2b2b;
 }
 
 @media (min-width: 992px) {
   /* line 32, ../../scss/theme/imports/bwv2.scss */
   .navbar > .container .navbar-brand {
-    background-color: #383838;
+    background-color: #2b2b2b;
   }
 }
 
@@ -9449,7 +9449,7 @@ svg {
 
 /* line 61, ../../scss/theme/imports/bwv2.scss */
 #login-logo {
-  background-color: #383838;
+  background-color: #2b2b2b;
 }
 
 /* line 68, ../../scss/theme/imports/bwv2.scss */
